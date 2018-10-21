@@ -1,0 +1,28 @@
+{
+  "id": "812a0d46-c8d1-4b3d-9288-26cb586c35de",
+  "name": "GREAT_Intro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great is our online tool to help managers ensure their frontline teams are trained in Key topics to work with Sodexo. This includes Health and Safety, Food safety and core information about Sodexo, as well as more subject specific training for their job roles. The materials are accessed via the Great page on SodexoNet and there is a managers guide there too."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537445442,
+  "fallbackIntent": false,
+  "events": []
+}

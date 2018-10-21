@@ -1,0 +1,33 @@
+{
+  "id": "dae94525-b999-4332-96b0-d1996be80ee3",
+  "parentId": "5bca8e46-9791-4e12-a6b2-fb4ec7dab320",
+  "rootParentId": "59e13389-7806-4779-8448-b1b101ffed5c",
+  "name": "Course_Booking_2 - yes - yes - custom",
+  "auto": true,
+  "contexts": [
+    "Course_Booking_2-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Booking_2.Course_Booking_2-yes.Course_Booking_2-yes-yes.Course_Booking_2-yes-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, it is https://sodexo.csod.com/.\nUse the \"Click to Access Ingenium\" button if you are a Single Sign on User otherwise, if you have been issued a specific Ingenium username and password, enter these in the fields on the right"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537448770,
+  "fallbackIntent": false,
+  "events": []
+}

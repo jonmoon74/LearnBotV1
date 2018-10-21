@@ -1,0 +1,28 @@
+{
+  "id": "62abcd32-6570-45b4-8799-6a8c419d9efa",
+  "name": "GREAT_FAQ_HowToAccess",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The new GREAT! resource is housed on Office 365. You can access it by clicking the link above, and you can save the link to your favourites. You should be automatically signed in to Office 365 when you click the link; if you are prompted to enter log in credentials, please enter your Sodexo email address and network password. If you experience any issues signing in, please contact Solutionline for further guidance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536655768,
+  "fallbackIntent": false,
+  "events": []
+}

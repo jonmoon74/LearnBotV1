@@ -1,0 +1,28 @@
+{
+  "id": "4e499558-05c3-4872-9d12-177b88b1bf68",
+  "name": "GREAT_refresh-rates",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "All training needs to be delivered to new starters within the first three months –  and refresher training is now required on an annual basis for all topics. The Mandatory Training Planner available in the manager’s resources section of the GREAT! homepage will provide you with more information on this."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537445547,
+  "fallbackIntent": false,
+  "events": []
+}

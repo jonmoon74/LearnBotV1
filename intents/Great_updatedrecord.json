@@ -1,0 +1,28 @@
+{
+  "id": "684de939-33d7-4726-9942-f537f9d493d1",
+  "name": "Great_updatedrecord",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "All new employees should be issued with the new Training Record Card to capture all of the training they complete. All existing employees should also be issued with a new Training Record Card, and this should be used to capture all refresher, role specific or on-going training they receive. You do not need to transfer records of previous training from the old version of the Learner Record Card, however you can keep the previous version on file if required."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537448548,
+  "fallbackIntent": false,
+  "events": []
+}

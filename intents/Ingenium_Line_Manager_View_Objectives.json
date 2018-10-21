@@ -1,0 +1,28 @@
+{
+  "id": "ab2974b4-5c7d-4865-90ae-11f604de8e59",
+  "name": "Ingenium_Line_Manager_View_Objectives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"Hover over the ‘My Performance’ banner in Ingenium and click on ‘My Objectives’. Next to ‘My Objectives’ you will see a tab for ‘Team Objectives’. This will show you one line per team member, to view all the objectives for that team member click on the drop down arrow under to the right hand side of each objective..\nAlternatively, hover over ‘My Team’ and click on ‘My Team’, click on your employee’s name, hover over the ‘Performance’ icon and click ‘Objectives’.\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536582053,
+  "fallbackIntent": false,
+  "events": []
+}

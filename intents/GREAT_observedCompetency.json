@@ -1,0 +1,28 @@
+{
+  "id": "64877371-bb0d-4c57-95b6-e6e8668de6fc",
+  "name": "GREAT_observedCompetency",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes. The observed competency check is an essential part of ensuring our teams have received suitable and sufficient training for their role, and must be completed by all employees – within three months of starting for new employees, and on an annual basis as a minimum for existing employees. It should be completed once all relevant Health \u0026 Safety and Food Safety GREAT! training has been delivered."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537448454,
+  "fallbackIntent": false,
+  "events": []
+}

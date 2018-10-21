@@ -1,0 +1,28 @@
+{
+  "id": "00a77873-0236-4206-8504-35c3eea7d865",
+  "name": "GREAT_UseOldResources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. One of the advantages of moving to our new format for GREAT! is that we can keep the content of the cards updated as and when things change. To ensure you are accessing the current correct information you must use the on-line version, not your previous box or anything else saved in hard copy."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537444836,
+  "fallbackIntent": false,
+  "events": []
+}

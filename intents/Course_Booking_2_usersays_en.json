@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5cf16ca1-02b9-4b5b-a3d9-6a21c19b2632",
+    "data": [
+      {
+        "text": "I need to book ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of my team on a course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536576481
+  },
+  {
+    "id": "f02ed8e7-8782-40eb-b1e4-4d2a88caf6cf",
+    "data": [
+      {
+        "text": "how do i get training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536576481
+  },
+  {
+    "id": "a1145f86-ba3d-44f1-868b-7ef2f7cfec56",
+    "data": [
+      {
+        "text": "How do you book training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536575803
+  },
+  {
+    "id": "24ab3508-683d-4d42-aa63-fa96143708b9",
+    "data": [
+      {
+        "text": "How do I book onto a course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536576481
+  },
+  {
+    "id": "b5fd806e-7cc6-431c-8725-a77690d5b0cb",
+    "data": [
+      {
+        "text": "How do you get on to learning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536576481
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "6742a7fe-96bc-44d6-9371-99c4684b520a",
+  "parentId": "a144ca77-e824-45b7-8ae9-b725c78d48bf",
+  "rootParentId": "a144ca77-e824-45b7-8ae9-b725c78d48bf",
+  "name": "Default Fallback Intent - fallback",
+  "auto": false,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m really sorry but I am not sure what you are asking, please try one of my human friends at the PeopleCentre on 0845 603 3644. Thanks"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537444713,
+  "fallbackIntent": true,
+  "events": []
+}

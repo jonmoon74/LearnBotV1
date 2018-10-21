@@ -1,0 +1,39 @@
+{
+  "id": "5bca8e46-9791-4e12-a6b2-fb4ec7dab320",
+  "parentId": "cca832cd-d079-4935-b6d3-0ff6a92e8039",
+  "rootParentId": "59e13389-7806-4779-8448-b1b101ffed5c",
+  "name": "Course_Booking_2 - yes - yes",
+  "auto": true,
+  "contexts": [
+    "Course_Booking_2-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Booking_2.Course_Booking_2-yes.Course_Booking_2-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "Course_Booking_2-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Log into Ingenium, use the search function to find the learning solution you need, and then choose a session (if applicable) and select \"Request\". \nThis will submit a request for a place on the session for your line manager to approve, once approved Ingenium will email you with all the information you need to know for your session."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537446289,
+  "fallbackIntent": false,
+  "events": []
+}

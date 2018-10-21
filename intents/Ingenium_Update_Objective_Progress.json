@@ -1,0 +1,28 @@
+{
+  "id": "33d3ba94-1449-4bbd-810f-61fd62016841",
+  "name": "Ingenium_Update_Objective_Progress",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Click on \u0027Snapshot\u0027 and then \u0027Objectives’ from your Ingenium home page (or via the ‘My Performance’ banner) and click the arrow to the right of the objective and click on edit. Click the title of the objective you wish to update, enter your final achievement percentage, comments and attach any supporting documentation and click save."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536582134,
+  "fallbackIntent": false,
+  "events": []
+}

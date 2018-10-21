@@ -1,0 +1,28 @@
+{
+  "id": "a08f100b-b89a-4f5b-8caf-c3b46a1ff64a",
+  "name": "EPA_Line_Manager_Do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When your direct report has completed the “individual preparation” stage, you will receive a task in “My Tasks” to complete the “manager preparation”. You should click on this task to complete steps A-C before the face to face meeting with your direct report. Following the meeting, you will need to go back into the task, make any necessary adjustments and com-plete steps D-E"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536575471,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d9a16664-d07a-48c2-a571-c957ba52d3a9",
+  "name": "Accessing_Ingenium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"The access for Ingenium is defined by your generic job.\n\nIf you are in scope for access you will be set up automatically by PeopleCentre and receive an email to confirm this has been done\n\nIf you are not in scope but need to complete e-learning you can ask your line manager to complete the e-learning access request form on https://uk.sodexonet.com/home/hr/learning--development/ld-course-forms.html\nYour manager needs to send the form to PeopleCentre and you will be emailed your login details once the account has been set up\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536581212,
+  "fallbackIntent": false,
+  "events": []
+}

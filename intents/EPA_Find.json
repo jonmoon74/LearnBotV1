@@ -1,0 +1,28 @@
+{
+  "id": "32d01f0d-bfcc-49ca-9528-efc515e9d052",
+  "name": "EPA_Find",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your EPA will appear in the “My Actions” box on your Ingenium homepage from 1st July. Simply click on the task to begin the EPA which consists of 6 steps. Once you have completed each step, click on the following step on the left hand side."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536575332,
+  "fallbackIntent": false,
+  "events": []
+}

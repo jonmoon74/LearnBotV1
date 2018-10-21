@@ -1,0 +1,28 @@
+{
+  "id": "c7eefadf-d919-4a5f-96b1-d6b0b5392258",
+  "name": "Ingenium_Development plan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Click on ‘Snapshot’ from your Ingenium home page and then select \u0027Development plan progress\u0027. Here you can either click \u0027Create Plan\u0027 or \u0027Create plan from template. The development plan userguide on the following page will guide you through this https://uk.sodexonet.com/en/home/hr/epa/employee-performance-appraisal-x.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536581498,
+  "fallbackIntent": false,
+  "events": []
+}

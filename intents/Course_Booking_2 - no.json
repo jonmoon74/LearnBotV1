@@ -1,0 +1,39 @@
+{
+  "id": "87bfda42-2d51-43f9-a999-cc31782392d9",
+  "parentId": "59e13389-7806-4779-8448-b1b101ffed5c",
+  "rootParentId": "59e13389-7806-4779-8448-b1b101ffed5c",
+  "name": "Course_Booking_2 - no",
+  "auto": true,
+  "contexts": [
+    "Course_Booking_2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Booking_2.Course_Booking_2-no",
+      "affectedContexts": [
+        {
+          "name": "Course_Booking_2-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Does the person you are booking for have an Ingenium account?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536575930,
+  "fallbackIntent": false,
+  "events": []
+}

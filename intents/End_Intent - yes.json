@@ -1,0 +1,33 @@
+{
+  "id": "9385505e-0849-4b91-b069-ce788474f5d4",
+  "parentId": "a424d777-c7ed-473a-8efe-5664a4143b24",
+  "rootParentId": "a424d777-c7ed-473a-8efe-5664a4143b24",
+  "name": "End_Intent - yes",
+  "auto": true,
+  "contexts": [
+    "End_Intent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "End_Intent.End_Intent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536582593,
+  "fallbackIntent": false,
+  "events": []
+}

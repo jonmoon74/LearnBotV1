@@ -1,0 +1,28 @@
+{
+  "id": "e008d587-e26b-4f97-862f-2dada25cd05a",
+  "name": "Ingenium_Set_Objectives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Following a conversation with your manager to discuss your objectives you should input these into Ingenium by hovering over the ‘My Performance’ banner in Ingenium, clicking on ‘My Objectives’, then ‘Create’ and entering the required details. You can upload attachments if you wish, click ‘Next’, then ‘Submit’. Your objective will then be sent to your line manager for approval. To send an approval request click on the arrow to the right had side and click on edit and then submit at the bottom of the page."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536581547,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e1bfda9c-77dd-4d93-b234-f73f5ce24f29",
+  "name": "EPA_Re-Open_EPA_Step",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"To re-open individual preparation the line manager should access the applicable EPA via the ‘My tasks’ section on their In-genium home page. On the overview page, click ‘Reopen step’, select ‘Individual prepara-tion’, enter comments to explain the reason for re-opening the step and click ‘Save’\nTo re-open the manager preparation stage please contact PeopleCentre\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536655853,
+  "fallbackIntent": false,
+  "events": []
+}

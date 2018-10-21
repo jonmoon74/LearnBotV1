@@ -1,0 +1,28 @@
+{
+  "id": "9be60ead-54f9-4739-a302-00bcbae5bf7d",
+  "name": "EPA_Co-planner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A line manager can add a co-planner by clicking on their employee’s EPA task, clicking ‘Add Co-Planners’ from the Options box and searching for the person they wish to have access. This can only be done once the employee has completed and submitted their individual preparation to the manager."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536575642,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d572eb2b-226d-44f3-ad36-08d03d488289",
+  "name": "Line_manager_team_changes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If your line manager and team are incorrect please ensure an amend position form was completed when the manager changed. If it was, please contact PeopleCentre so we can ensure the SAP HR system has the correct hierarchy. If it does we will be able to update Ingenium, if not an amend position form will need to be completed."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536581160,
+  "fallbackIntent": false,
+  "events": []
+}

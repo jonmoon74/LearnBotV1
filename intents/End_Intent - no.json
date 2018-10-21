@@ -1,0 +1,33 @@
+{
+  "id": "51f64c3f-0365-4733-9815-5ae8893e59be",
+  "parentId": "a424d777-c7ed-473a-8efe-5664a4143b24",
+  "rootParentId": "a424d777-c7ed-473a-8efe-5664a4143b24",
+  "name": "End_Intent - no",
+  "auto": true,
+  "contexts": [
+    "End_Intent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "End_Intent.End_Intent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK have a Great day"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536582613,
+  "fallbackIntent": false,
+  "events": []
+}

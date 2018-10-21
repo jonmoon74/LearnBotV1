@@ -1,0 +1,28 @@
+{
+  "id": "579ecd01-3eec-438d-acc8-52442be619b1",
+  "name": "GREAT_FAQ_WhyUpdated",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GREAT! box has been in our business for a number of years, and over this time things have changed. Our business is constantly evolving, and our training solution needs to evolve with it. The new solution will make updating and adding new cards easier when things change, and on-line rather than hard copy delivery supports both our changing relationship with technology and our environmental impact."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536655685,
+  "fallbackIntent": false,
+  "events": []
+}

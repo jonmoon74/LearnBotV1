@@ -1,0 +1,28 @@
+{
+  "id": "d254a91a-40e7-4f73-a66f-2c637d9fd190",
+  "name": "GREAT_Link",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great is accessed online at bit.ly/GreatBoxV\nor via the business management system"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537448688,
+  "fallbackIntent": false,
+  "events": []
+}

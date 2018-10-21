@@ -1,0 +1,28 @@
+{
+  "id": "e7c7f01b-e7e6-483f-9c4a-bc14a02ae049",
+  "name": "GREAT_WhatandWhen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is certain GREAT! training that is mandatory for all employees, and certain training that is mandatory for some employees depending on the role they have. You can find a full list of all training that is mandatory – including refresh frequency requirements if applicable – in the ‘Mandatory Training Planner’, which is available in the ‘Manager’s Resources’ section of the homepage. You should plan any non-mandatory training using the other sections of GREAT! based on job role, as with the previous solution."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537448588,
+  "fallbackIntent": false,
+  "events": []
+}

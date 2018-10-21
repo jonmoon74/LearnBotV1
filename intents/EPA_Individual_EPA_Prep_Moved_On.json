@@ -1,0 +1,28 @@
+{
+  "id": "e54390bf-0538-4ace-a350-44dc9fce8823",
+  "name": "EPA_Individual_EPA_Prep_Moved_On",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Where a deadline date for completion has expired, Ingenium will automatically move the EPA on to the next stage - in this case the ‘Manager Review’. In order to re-gain access to the review your manager will need to re-open your individual preparation step"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536655806,
+  "fallbackIntent": false,
+  "events": []
+}

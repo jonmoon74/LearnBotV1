@@ -1,0 +1,28 @@
+{
+  "id": "c1840ae7-42d2-477f-9020-a929f37979f9",
+  "name": "External_Training",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"Select the external booking form on https://uk.sodexonet.com/home/hr/learning--development/ld-course-forms.html\nComplete the form and send to your L\u0026D Business Partner for approval (unless you are requesting a First Aid course in which case send the form directly to PeopleCentre)\nIf approved the form should be sent to PeopleCentre who will book the course\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536581110,
+  "fallbackIntent": false,
+  "events": []
+}

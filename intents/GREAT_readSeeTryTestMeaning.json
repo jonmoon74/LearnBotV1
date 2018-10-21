@@ -1,0 +1,28 @@
+{
+  "id": "b0d712c0-e75c-4e10-840e-a73c13408f99",
+  "name": "GREAT_readSeeTryTestMeaning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For each section we update, we have aligned resources under the headings \"Read it\", \"See It\", Test/Try it\". Everything in Read It is the card content, which has been taken from the previous GREAT! cards. In some cases a video is aligned to the card, which you will find this in the See It area. In the Test It area, you will find quizzes, competency checks or other tools to help you identify that the training has been successful . In some cases there will be a Try It column instead of Test It, which will contain a session plan and activity for you to use to deliver training to your team.  You will know which resources to use together as they will have the same code. For example, you can tell that all of these resources relate to the topic ‘Safety at Sodexo’ in the Induction section;\n\nRead It: IN04_SafetyAtSodexo\n\nSee It: IN04_3ChecksForSafety\n\nTest It: IN04_SafetyAtSodexoQuiz\n\nAs they all start with the code IN04."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537445001,
+  "fallbackIntent": false,
+  "events": []
+}

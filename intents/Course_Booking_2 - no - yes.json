@@ -1,0 +1,39 @@
+{
+  "id": "57e9a90e-10d6-44e5-a876-d72b0c279f34",
+  "parentId": "87bfda42-2d51-43f9-a999-cc31782392d9",
+  "rootParentId": "59e13389-7806-4779-8448-b1b101ffed5c",
+  "name": "Course_Booking_2 - no - yes",
+  "auto": true,
+  "contexts": [
+    "Course_Booking_2-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Booking_2.Course_Booking_2-no.Course_Booking_2-no-yes",
+      "affectedContexts": [
+        {
+          "name": "Course_Booking_2-no-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Then they can either log into Ingenium themselves, use the search function to find the learning solution they need and request a place or as Line manager you can browse Ingenium and use the Assign option on a learning solution to apply it to your team member\u0027s record"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536576051,
+  "fallbackIntent": false,
+  "events": []
+}

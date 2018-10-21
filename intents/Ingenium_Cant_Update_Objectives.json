@@ -1,0 +1,28 @@
+{
+  "id": "4c3b57f8-fa93-4809-ad77-7935d094a4e1",
+  "name": "Ingenium_Cant_Update_Objectives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Once the current period has finished (i.e. after 31 August) your objectives will move into the previous period. To view them go to your objectives page, select the drop down next to current period and select \u0027Previous period\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536582246,
+  "fallbackIntent": false,
+  "events": []
+}

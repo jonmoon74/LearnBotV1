@@ -1,0 +1,28 @@
+{
+  "id": "9a58506b-4797-4c0f-8043-a52b5e386ad7",
+  "name": "GREAT_trainingdelivered",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is an updated version of the Training Record Card available in the Manager’s Resources section of the GREAT! homepage, which should be used to enter details of all training completed for each individual. There is also an extra page template included in case you run out of room."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537448506,
+  "fallbackIntent": false,
+  "events": []
+}

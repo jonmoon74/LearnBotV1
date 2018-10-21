@@ -1,0 +1,28 @@
+{
+  "id": "aa5f18d2-6a6f-42b7-b222-5b5554f63391",
+  "name": "Ingenium_Objective_SignOff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Click on \u0027Snapshot\u0027 and then \u0027view team\u0027. Select the team member you wish to view and then click \u0027Objectives’. Click the title of the objective and add comments. Once you are ready to sign it off click the padlock next to the title of the objective. This will lock it down and mean no more changes can be made."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536582177,
+  "fallbackIntent": false,
+  "events": []
+}

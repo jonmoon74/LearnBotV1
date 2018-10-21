@@ -1,0 +1,28 @@
+{
+  "id": "053dda0f-8d68-41d9-9c54-c089982b6340",
+  "name": "GREAT_UseNewResources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Full guidance is provided on how to get the most out of the new resources available in the GREAT! Manager’s Guide, which you will find in the Manager’s Resources section of the portal. For any section that has not been updated with new resources"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536655955,
+  "fallbackIntent": false,
+  "events": []
+}

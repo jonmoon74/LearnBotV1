@@ -1,0 +1,28 @@
+{
+  "id": "82553fa5-57ee-4e82-95b9-e475aaf1014f",
+  "name": "GREAT_mobile",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can access the portal and all content on any internet enabled device. If your device takes you into ‘application view’, it’s recommended that you switch to ‘pc view’ using the three dots in the bottom right of the screen. You can find more information on this in the Manager’s Guide"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537447471,
+  "fallbackIntent": false,
+  "events": []
+}

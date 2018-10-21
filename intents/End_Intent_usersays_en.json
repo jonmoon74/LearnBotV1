@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e0aa868e-f3e0-48dc-9c19-701cec8d902f",
+    "data": [
+      {
+        "text": "Cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536582503
+  },
+  {
+    "id": "880e2cb0-cdb8-443c-a209-b70266ace5d4",
+    "data": [
+      {
+        "text": "Ta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536582503
+  },
+  {
+    "id": "5ce0e330-1d1e-438c-9518-0e3514765e84",
+    "data": [
+      {
+        "text": "Merci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536582503
+  },
+  {
+    "id": "48d5507f-4283-44fd-9cc6-12c384494511",
+    "data": [
+      {
+        "text": "Cheers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536582503
+  },
+  {
+    "id": "cfc92e06-63c4-44c0-a447-82b87b25f030",
+    "data": [
+      {
+        "text": "Thank You",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536582503
+  }
+]

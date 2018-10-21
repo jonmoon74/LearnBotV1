@@ -1,0 +1,33 @@
+{
+  "id": "53e140de-1c6b-47ee-871c-ac66b6a19bf3",
+  "parentId": "cca832cd-d079-4935-b6d3-0ff6a92e8039",
+  "rootParentId": "59e13389-7806-4779-8448-b1b101ffed5c",
+  "name": "Course_Booking_2 - yes - no",
+  "auto": true,
+  "contexts": [
+    "Course_Booking_2-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Booking_2.Course_Booking_2-yes.Course_Booking_2-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You need to complete the manual course booking form from SodexoNet and email it to the L\u0026D admin team in Peoplecentre\nYou can download the form from the L\u0026D pages on SodexoNet \n\nPlease ensure that you start the subject line of your email with \"L and D Team\" to ensure the email reaches the correct team promptly."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537446798,
+  "fallbackIntent": false,
+  "events": []
+}
